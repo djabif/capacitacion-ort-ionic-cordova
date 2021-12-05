@@ -31,8 +31,11 @@ Ejecutarla usando el live server de VS Code. Editar el `settings.json` con:
 - Agregar plataforma android:
 `ionic cordova platform add android`
 - Agrega los plugins al package.json
--- Crea `/platforms/android`
--- Crea `/plugins`
--- [Si da el error de sharp](https://github.com/ionic-team/ionic-cli/issues/4030#issuecomment-502397186)
+    - Crea `/platforms/android`
+    - Crea `/plugins`
+    - [Si da el error de sharp](https://github.com/ionic-team/ionic-cli/issues/4030#issuecomment-502397186)
 - `cordova build android`
 - `cordova run android`
+
+## Ionic
+- [Componentes Visuales](https://ionicframework.com/docs/components)
