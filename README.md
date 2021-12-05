@@ -23,7 +23,7 @@ Ejecutarla usando el live server de VS Code. Editar el `settings.json` con:
     "liveServer.settings.root": "/www"
 }`
 
-![](https://drive.google.com/uc?id=1rgGJBUnotXfHwk2BX6qLeUhBKCrh7VDC)
+<img src="https://drive.google.com/uc?id=1rgGJBUnotXfHwk2BX6qLeUhBKCrh7VDC" alt="initial app structure" width="400"/>
 
 ## Cordova
 - Crea el `config.xml` y los `resources` (splash, icono, etc):
