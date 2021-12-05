@@ -1,0 +1,7 @@
+{
+  "name": "capacitacion-ionic",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "custom"
+}
