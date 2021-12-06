@@ -42,12 +42,12 @@ router.addEventListener("ionRouteDidChange", (e) => {
 
     if (detail.to === "/login") {
         paginaLogin.style.display = "block";
-        document.getElementById('mensajeError').style.display = "none";
+        document.getElementById('mensajeErrorIngreso').style.display = "none";
     }
 
     if (detail.to === "/registro") {
         paginaRegistro.style.display = "block";
-        document.getElementById('mensajeError').style.display = "none";
+        document.getElementById('mensajeErrorRegistro').style.display = "none";
     }
 
     if (detail.to === "/") {
